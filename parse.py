@@ -7,7 +7,9 @@ policyfile.close()
 
 allowedext = policy.replace("\n", '').replace(" ", '').replace('"', '').replace('[', '').replace(']', '').split(',')
 
-parsedextensions = """|Name|Description|
+parsedextensions = """# Allowed Extensions
+
+|Name|Description|
 |-|-|"""
 
 for i in allowedext:
