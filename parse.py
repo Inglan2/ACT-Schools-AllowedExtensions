@@ -27,4 +27,4 @@ for i in allowedext:
     except:
         parsedextensions=parsedextensions+f"\n|Doesn't exist||"
 
-open("ALLOWEDEXTENSIONS.md", "w").write(parsedextensions)
+open("README.md", "w").write(parsedextensions)
