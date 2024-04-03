@@ -10,7 +10,7 @@
 |[Cursor Cat](https://chromewebstore.google.com/detail/aeehekhncjhhmchjolinnihgdpapmljk)|Funny custom cats chase the cursor in your Chrome browser. Your personal pet.|
 |[OpenOffice Writer on rollApp](https://chromewebstore.google.com/detail/aefnmlhnadcihhnfplfbmcmodoiannan)|Fully featured open source word processor in the cloud (no download or installation required). Powered by rollApp.|
 |[Mote: voice notes & feedback](https://chromewebstore.google.com/detail/ajphlblkfpppdpkgokiejbjfohfohhmk)|Mote  fast, friendly voice messaging|
-|[CiteMaker CiteWeb | APA 6th Edn.](https://chromewebstore.google.com/detail/akjejjpinngeemgaddjbhbiddpoppnem)|CiteMaker is for formatting academic citations and reference lists.|
+|[CiteMaker CiteWeb \| APA 6th Edn.](https://chromewebstore.google.com/detail/akjejjpinngeemgaddjbhbiddpoppnem)|CiteMaker is for formatting academic citations and reference lists.|
 |[Mobility Print](https://chromewebstore.google.com/detail/alhngdkjgnedakdlnamimgfihgkmenbh)|Mobility Print|
 |[Crypto Lite (Free)](https://chromewebstore.google.com/detail/amgagplnmolnmhgcfkllnfpkgbnkelmj)|A light AES encryption client|
 |[Currency Converter PRO](https://chromewebstore.google.com/detail/amlcmfdiddkikfmljhdhhookgjmnpedc)|Simple and fast realtime currency converter with flexible settings. Includes 195+ world currencies with popular cryptocurrencies.|
