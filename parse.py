@@ -27,4 +27,4 @@ for i in allowedext:
     except:
         parsedextensions.append({"Name": f"Doesn't Exist", "Description": ""})
 
-open("ALLOWEDEXTENSIONS.md", "w").write(markdown_table(parsedextensions).get_markdown())
+open("ALLOWEDEXTENSIONS.md", "w").write(markdown_table(parsedextensions).get_markdown().replace("```", ""))
