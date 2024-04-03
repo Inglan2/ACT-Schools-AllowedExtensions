@@ -1,6 +1,5 @@
 import requests
 from bs4 import BeautifulSoup
-from py_markdown_table.markdown_table import markdown_table
 
 policyfile = open("policy.json", "r")
 policy = policyfile.read()
@@ -8,7 +7,8 @@ policyfile.close()
 
 allowedext = policy.replace("\n", '').replace(" ", '').replace('"', '').replace('[', '').replace(']', '').split(',')
 
-parsedextensions = []
+parsedextensions = """|Name|Description|
+|-|-|"""
 
 for i in allowedext:
     try:
@@ -21,10 +21,10 @@ for i in allowedext:
         soup = BeautifulSoup(response.content, 'html.parser')
         
         title = soup.find('meta', property="og:title").get('content')
-        desc = soup.find('meta', property="og:description").get('content')
+        desc = soup.find('meta', property="og:description").get('content').replace("\n", "").replace("-", "").replace("*", "")
         print(title,desc)
-        parsedextensions.append({"Name": f"[{title}](https://chromewebstore.google.com/detail/{i})", "Description": desc})
+        parsedextensions=parsedextensions+f"\n|[{title}](https://chromewebstore.google.com/detail/{i})|{desc}|"
     except:
-        parsedextensions.append({"Name": f"Doesn't Exist", "Description": ""})
+        parsedextensions=parsedextensions+f"\n|Doesn't exist||"
 
-open("ALLOWEDEXTENSIONS.md", "w").write(markdown_table(parsedextensions).get_markdown().replace("```", ""))
+open("ALLOWEDEXTENSIONS.md", "w").write(parsedextensions)
