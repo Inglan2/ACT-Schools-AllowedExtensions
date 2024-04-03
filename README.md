@@ -1,3 +1,5 @@
+# Allowed Extensions
+
 |Name|Description|
 |-|-|
 |[CK-Express TP](https://chromewebstore.google.com/detail/allahmdcdojnlikmpkdpcopgmjfdafch)|ContentKeeper Technologies Cloudbased Internet Filtering and Security System|
