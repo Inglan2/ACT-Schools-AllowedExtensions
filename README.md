@@ -58,7 +58,7 @@
 |[Fluency Tutor® for Google™](https://chromewebstore.google.com/detail/ejajakfhhhhkifioabcekjjlhpoiijfa)|Fluency Tutor® for Google™ helps busy teachers bring struggling readers up to speed.|
 |[Zotero Connector](https://chromewebstore.google.com/detail/ekhagklcjbdpajgpjgmbionohlpdbjgc)|Save references to Zotero from your web browser|
 |[Arduino Create for Education](https://chromewebstore.google.com/detail/elmgohdonjdampbcgefphnlchgocpaij)|Arduino Create Chrome app.|
-|[Screenshot reader](https://chromewebstore.google.com/detail/enfolipbjmnmleonhhebhalojdpcpdoo)|Screenshot reading support for Read&Write for Google Chrome™|
+|[Screenshot reader™](https://chromewebstore.google.com/detail/enfolipbjmnmleonhhebhalojdpcpdoo)|Screenshot reading support for Read&Write for Google Chrome™|
 |[Google Apps Script](https://chromewebstore.google.com/detail/eoieeedlomnegifmaghhjnghhmcldobl)|Create and edit scripts|
 |[better-onetab](https://chromewebstore.google.com/detail/eookhngofldnbnidjlbkeecljkfpmfpg)|A better OneTab|
 |[GoFullPage - Full Page Screen Capture](https://chromewebstore.google.com/detail/fdpohaocaechififmbbbbbknoalclacl)|Capture a screenshot of your current page in entirety and reliably—without requesting any extra permissions!|
@@ -136,6 +136,7 @@
 |[CiteMe](https://chromewebstore.google.com/detail/lglkiedognmlhmjmcapidjiiagfjbcen)|Helps you keep track of your quotes and stuff|
 |[Kaizena Web App](https://chromewebstore.google.com/detail/lhiccpgcnopcjjdobhoddnplkebplfaj)|Fast, high quality feedback on student work|
 |[Scrible Extension](https://chromewebstore.google.com/detail/lijhjhlnfifgoabbihoobnfapogkcjgk)|Smarter Web reading & research. Annotate, bookmark, save, cite, manage & share online articles. Use with your Scrible.com account.|
+|[LipSurf - Voice Control for the Web](https://chromewebstore.google.com/detail/lnnmjmalakahagblkkcnjkoaihlfglon)|Use voice to type, click anything, scroll, watch videos, open webpages, make custom voice shortcuts and more.|
 |[Toucan by Babbel - Language Learning](https://chromewebstore.google.com/detail/lokjgaehpcnlmkebpmjiofccpklbmoci)|Learn a new language just by browsing the internet.|
 |[Google Keep Chrome Extension](https://chromewebstore.google.com/detail/lpcaedmchfhocbbapmcbpinfpgnhiddi)|Save to Google Keep in a single click!|
 |[Clean Google Calendar](https://chromewebstore.google.com/detail/magodclodecbbnbdfpmoehfdddkhlfmm)|An interface for Google Calendar that makes it more straightforward and enjoyable to use|
@@ -175,7 +176,7 @@
 |[Chrome Web Store](https://chromewebstore.google.com/detail/oipimoeophamdcmjcfameoojlbhbgjda)|Add new features to your browser and personalize your browsing experience.|
 |[Video Editor for Chromebook & more: Free app](https://chromewebstore.google.com/detail/okgjbfikepgflmlelgfgecmgjnmnmnnb)|Editing software for Google Chrome OS, Win & iOS. Easy online movie maker with advanced video creation tools. Install & edit free.|
 |[Beautiful Audio Editor](https://chromewebstore.google.com/detail/okiblndpcefmebnkjnjfplijnelbcjmm)|The inbrowser, multitrack audio editor for Desktop and mobile. Make podcasts, mixes, and more.|
-|[AI-based Grammar Checker & Paraphraser – LanguageTool](https://chromewebstore.google.com/detail/oldceeleldhonbafppcapldpdifcinji)|Instantly Enhance Your Texts with LanguageTool’s Grammar Checker and Paraphrasing Tool|
+|[AI Grammar Checker & Paraphraser – LanguageTool](https://chromewebstore.google.com/detail/oldceeleldhonbafppcapldpdifcinji)|Instantly Enhance Your Texts with LanguageTool’s Grammar Checker and Paraphrasing Tool|
 |[Hover Zoom+](https://chromewebstore.google.com/detail/pccckmaobkjjboncdfnnofkonhgpceea)|Zoom images/videos on all your favorite websites (Facebook, Amazon, etc). Simply hover your mouse over the image to enlarge it.|
 |[draw.io Desktop](https://chromewebstore.google.com/detail/pebppomjfocnoigkeepgbmcifnnlndla)|draw.io is a completely free diagram editor|
 |[WeDo 2.0 LEGO® Education](https://chromewebstore.google.com/detail/pflionopdgpjckjkafnlamfmonjhccdh)|The LEGO® Education WeDo 2.0 App allows students to explore great science projects.|
