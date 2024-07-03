@@ -32,7 +32,7 @@
 |[BibItNow!](https://chromewebstore.google.com/detail/bmnfikjlonhkoojjfddnlbinkkapmldg)|Instantly generates a Bibtex, RIS, Endnote, APA, MLA or (B)Arnold S. bibliography item from journal articles, books, etc. .|
 |[Nimbus Screenshot & Screen Video Recorder](https://chromewebstore.google.com/detail/bpconcjcammlapcogcnnelfmaeghhagj)|Capture FULL page screenshots. Edit and save screenshots. Record screencasts  record video from your screen. Record howto guides.|
 |[Animoto Video Maker](https://chromewebstore.google.com/detail/cambaldalpopjjmpfogbpikpbhembepl)|Easily turn photos and video clips into powerful, professional videos.|
-|[OpenDyslexic for Chrome](https://chromewebstore.google.com/detail/cdnapgfjopgaggbmfgbiinmmbdcglnam)|Format pages using the OpenDyslexic font and low contrast help|
+|[OpenDyslexic for Chrome™](https://chromewebstore.google.com/detail/cdnapgfjopgaggbmfgbiinmmbdcglnam)|Make reading online easier and more enjoyable by formatting pages with the OpenDyslexic font.|
 |[Hippo Video](https://chromewebstore.google.com/detail/cephikfbaggoceobllgimnhgppmefjoe)|open, edit, share and track videos|
 |[TrafficLight](https://chromewebstore.google.com/detail/cfnpidifppmenkapgihekkeednfoenal)|Bitdefender TrafficLight adds a strong and nonintrusive layer of security to your browsing experience.|
 |[Tab Count](https://chromewebstore.google.com/detail/cfokcacdaonnckdmopmcgeanhkebeaio)|Displays the count and list of open tabs from current or all windows (configurable) and allows you to select and/or close them.|
@@ -42,6 +42,7 @@
 |[Hippo Video: Video and Screen Recorder](https://chromewebstore.google.com/detail/cijidiollmnkegoghpfobabpecdkeiah)|Best screen recorder for Chrome. Create, edit, and share your professional looking videos instantly.|
 |[mBlock](https://chromewebstore.google.com/detail/cikipehcmeblohaibidanjaelilmdilo)|This is the mBlock companion App needed to communicate with the robots in Chromebooks.Usage: Install the Chrome App Open…|
 |[Proofread Bot](https://chromewebstore.google.com/detail/cjnnmmjgjaaomkcjibnncokikbianjap)|Check text for grammar, style and plagiarism issues.|
+|[OKIOCAM Stop Motion](https://chromewebstore.google.com/detail/cnlaenhekjagkfjaglgfffkdblmddnnn)|Use your webcam to make stop motion videos and automatically upload them to Google Drive.|
 |[Weebly - Website Builder](https://chromewebstore.google.com/detail/cnocophcbjfiimmnhlhleaooedeheifb)|Easily create a free site, blog or online store. No technical skills required. Hosting included.|
 |[Chrome Web Store](https://chromewebstore.google.com/detail/cogkimcgekckpnbomehojfbpjobhjili)|Add new features to your browser and personalize your browsing experience.|
 |[CaretTab - New Tab Dashboard](https://chromewebstore.google.com/detail/cojpndognjdcakkimaloeealehpkljna)|Your Tab, Your Rules! Infinite customization of your New Tab page with many widget options.|
@@ -99,6 +100,7 @@
 |[Music Player for Google Drive](https://chromewebstore.google.com/detail/hnfeekfpnjbdmelcapngdgkjnhgijjkh)|Music and Audio files player for Google Drive.|
 |[Screen Recorder](https://chromewebstore.google.com/detail/hniebljpgcogalllopnjokppmgbhaden)|Record a video from the camera or capture it from the screen (desktop, specific application window or browser tab)|
 |[Mirroring360 Sender for Chrome](https://chromewebstore.google.com/detail/iaigceaehdihlnolehbapjfbbfpnlngg)|Cast your Chromebook or Computer Screen to Another Computer (PC or MAC)|
+|[Co:Writer](https://chromewebstore.google.com/detail/ifajfiofeifbbhbionejdliodenmecna)|Word prediction that is grammar smart and inventive spelling aware. Speech recognition allows you to speak it, and we'll write it.|
 |[Jamboard](https://chromewebstore.google.com/detail/ihacalceahhliihnhclmjjghadnhhnoc)|Create and edit Jams|
 |[SPARKvue](https://chromewebstore.google.com/detail/iimbdmgkimpbhimdjnmiffmeefbppijo)|SPARKvue Chrome App|
 |[Imagus](https://chromewebstore.google.com/detail/immpkjjlgappgfkkfieppnmlhakdmaab)|Enlarge thumbnails, and show images/videos from links with a mouse hover.|
@@ -111,6 +113,7 @@
 |[Volume Master](https://chromewebstore.google.com/detail/jghecgabfgfdldnmbfkhmffcabddioke)|Up to 600% volume boost|
 |[Google Forms](https://chromewebstore.google.com/detail/jhknlonaankphkkbnmjdlpehkinifeeg)|Create online forms and surveys|
 |[LEGO® MINDSTORMS® Education EV3](https://chromewebstore.google.com/detail/jhnhfnolmcleankdkhfklakpchnccipg)|The LEGO® MINDSTORMS® Education EV3 Programming App simplifies student access to, and promotes their engagement with, STEM subjects.|
+|[rikaikun](https://chromewebstore.google.com/detail/jipdnfibhldikgcjhfnomkfpcebammhp)|rikaikun shows the reading and English definition of Japanese words when you hover over Japanese text in the browser.|
 |[Disqus Condensed](https://chromewebstore.google.com/detail/jjdnibohihomibfhckihkohkjaegbcnf)|Condensed theme for enhanced readability when browsing disqus.com/home/|
 |[Meet Transcript](https://chromewebstore.google.com/detail/jkdogkallbmmdhpdjdpmoejkehfeefnb)|Record Google Meet captions, chat messages, and screenshots to Google Docs.|
 |[Outwrite — Grammar checker & rewrite tool](https://chromewebstore.google.com/detail/jldbdlmljpigglecmeclifcdhgbjbakk)|Write perfect content with Outwrite. Check spelling & grammar, improve writing style, find synonyms and paraphrase sentences.|
@@ -127,7 +130,7 @@
 |[Sketchpad 3.5](https://chromewebstore.google.com/detail/kkghjbajgkcialbbimbifdcjilhcgoim)|Draw, Create, Share!|
 |[Chrome Web Store](https://chromewebstore.google.com/detail/kklailfgofogmmdlhgmjgenehkjoioip)|Add new features to your browser and personalize your browsing experience.|
 |[Zoom for Google Chrome](https://chromewebstore.google.com/detail/lajondecmobodlejlcjllhojikagldgd)|Zoom in or out on web content using the zoom button and mouse scroll wheel for more comfortable reading. That to each percent value.|
-|[Momentum](https://chromewebstore.google.com/detail/laookkfknpbbblfpciffpaejjkokdgca)|Replace new tab page with a personal dashboard to help you get focused, stay organized, and keep motivated to achieve your goals.|
+|[Momentum](https://chromewebstore.google.com/detail/laookkfknpbbblfpciffpaejjkokdgca)|Transform your browser into a beautifully designed tab that helps you feel calm, keep focus, and stay energized.|
 |[SmartDraw Cloud](https://chromewebstore.google.com/detail/lcfhaddgimpjnpbmphgjbkpiaamokidi)|The smartest way to draw anything, now in your browser.|
 |[Google Scholar Button](https://chromewebstore.google.com/detail/ldipcbpaocekfooobnbcddclnhejkcpn)|Lookup scholarly articles as you browse the web.|
 |[SketchUp for Schools](https://chromewebstore.google.com/detail/lfhlekccjamfkfmjgnpbdjpecanfbjkl)|SketchUp in a browser for Primary and Secondary Schools signed up with G Suite for Education.|
@@ -178,7 +181,7 @@
 |[Beautiful Audio Editor](https://chromewebstore.google.com/detail/okiblndpcefmebnkjnjfplijnelbcjmm)|The inbrowser, multitrack audio editor for Desktop and mobile. Make podcasts, mixes, and more.|
 |[AI Grammar Checker & Paraphraser – LanguageTool](https://chromewebstore.google.com/detail/oldceeleldhonbafppcapldpdifcinji)|Instantly Enhance Your Texts with LanguageTool’s Grammar Checker and Paraphrasing Tool|
 |[Hover Zoom+](https://chromewebstore.google.com/detail/pccckmaobkjjboncdfnnofkonhgpceea)|Zoom images/videos on all your favorite websites (Facebook, Amazon, etc). Simply hover your mouse over the image to enlarge it.|
-|[draw.io Desktop](https://chromewebstore.google.com/detail/pebppomjfocnoigkeepgbmcifnnlndla)|draw.io is a completely free diagram editor|
+|[Chrome Web Store](https://chromewebstore.google.com/detail/pebppomjfocnoigkeepgbmcifnnlndla)|Add new features to your browser and personalize your browsing experience.|
 |[WeDo 2.0 LEGO® Education](https://chromewebstore.google.com/detail/pflionopdgpjckjkafnlamfmonjhccdh)|The LEGO® Education WeDo 2.0 App allows students to explore great science projects.|
 |[Scratch 3 Developer Tools](https://chromewebstore.google.com/detail/phacniajokfchdcamjhonkbhlcipplno)|Scratch 3 Developer Tools to enhance your Scratch Editing Experience on https://scratch.mit.edu|
 |[MyBib: Free Citation Generator](https://chromewebstore.google.com/detail/phidhnmbkbkbkbknhldmpmnacgicphkf)|Automatically create APA style, MLA format, and Harvard referencing style citations with our citation generator addon for Chrome.|
