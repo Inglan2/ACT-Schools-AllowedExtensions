@@ -22,8 +22,8 @@ for i in allowedext:
 
         soup = BeautifulSoup(response.content, 'html.parser')
         
-        title = soup.find('meta', property="og:title").get('content').replace("|", "\|")
-        desc = soup.find('meta', property="og:description").get('content').replace("\n", "").replace("-", "").replace("*", "").replace("|", "\|")
+        title = soup.find('title').get_text().replace(" - Chrome Web Store", "").replace("|", "\|")
+        desc = soup.find('meta', property="og:description").get('content').replace("\n", "").replace("-", "").replace("*", "").replace("|", "\|").replace("Add new features to your browser and personalize your browsing experience.", "-")
         print(title,desc)
         parsedextensions=parsedextensions+f"\n|[{title}](https://chromewebstore.google.com/detail/{i})|{desc}|"
     except:
