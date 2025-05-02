@@ -21,8 +21,10 @@ for i in allowedext:
         response.raise_for_status()
 
         soup = BeautifulSoup(response.content, 'html.parser')
-        
+
         title = soup.find('title').get_text().replace(" - Chrome Web Store", "").replace("|", "\|")
+        if title == "Chrome Web Store":
+            title = "Not found"
         desc = soup.find('meta', property="og:description").get('content').replace("\n", "").replace("-", "").replace("*", "").replace("|", "\|").replace("Add new features to your browser and personalize your browsing experience.", "-")
         print(title,desc)
         parsedextensions=parsedextensions+f"\n|[{title}](https://chromewebstore.google.com/detail/{i})|{desc}|"
