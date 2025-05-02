@@ -10,7 +10,7 @@
 |[Slides](https://chromewebstore.google.com/detail/aapocclcgogkmnckokdopfmhonfmgoek)|Create and edit presentations|
 |[Code Pad Text Editor](https://chromewebstore.google.com/detail/adaepfiocmagdimjecpifghcgfjlfmkh)|An multilanguage code texteditor crafted for the Chrome OS. Completely free to use and to modify under the GPL!|
 |[Seesaw: The Learning Journal](https://chromewebstore.google.com/detail/adnohgfkodfphemhddnmikhflkolfjfh)|Seesaw is a studentdriven digital portfolio that empowers students to independently document what they are learning at school.|
-|[Chrome Web Store](https://chromewebstore.google.com/detail/aecjogkncpbkjfobfnoaiepipllcadhe)|-|
+|[Not found](https://chromewebstore.google.com/detail/aecjogkncpbkjfobfnoaiepipllcadhe)|-|
 |[Cursor Cat](https://chromewebstore.google.com/detail/aeehekhncjhhmchjolinnihgdpapmljk)|Funny custom cats chase the cursor in your Chrome browser. Your personal pet.|
 |[OpenOffice Writer on rollApp](https://chromewebstore.google.com/detail/aefnmlhnadcihhnfplfbmcmodoiannan)|Fully featured open source word processor in the cloud (no download or installation required). Powered by rollApp.|
 |[Duolingo on the Web](https://chromewebstore.google.com/detail/aiahmijlpehemcpleichkcokhegllfjl)|Learn languages completely free, without ads or hidden charges. It's fun, easy, and scientifically proven.|
@@ -23,16 +23,16 @@
 |[Google Drive](https://chromewebstore.google.com/detail/apdfllckaahabafndbhieahigkjlhalf)|Google Drive: create, share and keep all your stuff in one place.|
 |[Reminders](https://chromewebstore.google.com/detail/aplgdhgdhfeipojcjbhchmolaolealnd)|Create scheduled reminders of different types, such as static text, notification, opening URL in new tab and task.|
 |[Inkscape editor for draws and graphics](https://chromewebstore.google.com/detail/bcapjlfjbmaijdinncieppinamjgljog)|Create or edit vector graphics such as illustrations, diagrams, line arts, charts, logos and complex paintings|
-|[Chrome Web Store](https://chromewebstore.google.com/detail/becloognjehhioodmnimnehjcibkloed)|-|
+|[Not found](https://chromewebstore.google.com/detail/becloognjehhioodmnimnehjcibkloed)|-|
 |[Sketchboard.io](https://chromewebstore.google.com/detail/bgafhjpdkfjfmmjbebbdckolonomaoil)|Sketch diagrams quickly on an infinite whiteboard together with your team.|
 |[Desmos Graphing Calculator](https://chromewebstore.google.com/detail/bhdheahnajobgndecdbggfmcojekgdko)|Beautiful, powerful, free math exploration! Brought to you by desmos.com|
 |[ColorZilla](https://chromewebstore.google.com/detail/bhlhnicpbhignbdhedgjhgdocnmhomnp)|Advanced Eyedropper, Color Picker, Gradient Generator and other colorful goodies|
 |[Gliffy Diagrams](https://chromewebstore.google.com/detail/bhmicilclplefnflapjmnngmkkkkpfad)|Diagrams Made Easy. Draw a flowchart, org chart, UML, ERD, network diagram, wireframe, BPMN, and other diagrams.|
-|[Chrome Web Store](https://chromewebstore.google.com/detail/bjkegbgpfgpikgkfidhcihhiflbjgfic)|-|
+|[Not found](https://chromewebstore.google.com/detail/bjkegbgpfgpikgkfidhcihhiflbjgfic)|-|
 |[Codecademy Redesigned](https://chromewebstore.google.com/detail/bladgjamjaiaffkojoadgeelkgfgkdkp)|New feature|
 |[YouTube](https://chromewebstore.google.com/detail/blpcfgokakmgnkcojhhkbfbldkacnbeo)|The official YouTube website|
 |[BibItNow!](https://chromewebstore.google.com/detail/bmnfikjlonhkoojjfddnlbinkkapmldg)|Instantly generates a Bibtex, RIS, Endnote, APA, MLA or (B)Arnold S. bibliography item from journal articles, books, etc. .|
-|[Chrome Web Store](https://chromewebstore.google.com/detail/bpconcjcammlapcogcnnelfmaeghhagj)|-|
+|[Not found](https://chromewebstore.google.com/detail/bpconcjcammlapcogcnnelfmaeghhagj)|-|
 |[Animoto Video Maker](https://chromewebstore.google.com/detail/cambaldalpopjjmpfogbpikpbhembepl)|Easily turn photos and video clips into powerful, professional videos.|
 |[OpenDyslexic for Chrome](https://chromewebstore.google.com/detail/cdnapgfjopgaggbmfgbiinmmbdcglnam)|Format pages using the OpenDyslexic font and low contrast help|
 |[Hippo Video](https://chromewebstore.google.com/detail/cephikfbaggoceobllgimnhgppmefjoe)|open, edit, share and track videos|
@@ -46,23 +46,23 @@
 |[Proofread Bot AI Writing Coach](https://chromewebstore.google.com/detail/cjnnmmjgjaaomkcjibnncokikbianjap)|Check text for grammar, style and plagiarism issues.|
 |[OKIOCAM Stop Motion](https://chromewebstore.google.com/detail/cnlaenhekjagkfjaglgfffkdblmddnnn)|Use your webcam to make stop motion videos and automatically upload them to Google Drive.|
 |[Weebly - Website Builder](https://chromewebstore.google.com/detail/cnocophcbjfiimmnhlhleaooedeheifb)|Easily create a free site, blog or online store. No technical skills required. Hosting included.|
-|[Chrome Web Store](https://chromewebstore.google.com/detail/cogkimcgekckpnbomehojfbpjobhjili)|-|
+|[Not found](https://chromewebstore.google.com/detail/cogkimcgekckpnbomehojfbpjobhjili)|-|
 |[Stop Motion Animator](https://chromewebstore.google.com/detail/dhgmfcabdnkbdhelnooodefedbilcpho)|A simple tool for creating stop motion animation sequences using a webcam.|
 |[Cog - System Info Viewer](https://chromewebstore.google.com/detail/difcjdggkffcfgcfconafogflmmaadco)|Display lots of useful hardware and network info|
 |[Vernier Graphical Analysis](https://chromewebstore.google.com/detail/dncgedbnidfkppmdgfgidcepclnokpkb)|Graphical Analysis™ is a tool for science students to collect, graph, and analyze data from Vernier sensors.|
 |[Disable automatic tab discarding](https://chromewebstore.google.com/detail/dnhngfnfolbmhgealdpolmhimnoliiok)|Stops Chrome from suspending tabs, and reloading them when you switch to them.|
-|[Chrome Web Store](https://chromewebstore.google.com/detail/dnloadmamaeibnaadmfdfelflmmnbajd)|-|
+|[Not found](https://chromewebstore.google.com/detail/dnloadmamaeibnaadmfdfelflmmnbajd)|-|
 |[AHA Music - Song Finder for Browser](https://chromewebstore.google.com/detail/dpacanjfikmhoddligfbehkpomnbgblf)|What is the song? Song identifier tells you!|
 |[Kami for Google Chrome‚Ñ¢](https://chromewebstore.google.com/detail/ecnphlgnajanjnkcmbpancdjoidceilk)|Kami is an interactive learning platform empowering students and enhancing the way teachers teach, feedback, and assess.|
 |[TinySketch](https://chromewebstore.google.com/detail/eekbbmglbfldjpgbmajenafphnfjonnc)|Create and save drawings at the click of a button.|
 |[Chrome Connectivity Diagnostics](https://chromewebstore.google.com/detail/eemlkeanncmjljgehlbplemhmdmalhdc)|Chrome Connectivity Diagnostics is a fast and simple network testing and troubleshooting tool for Chrome and Chrome OS. The tool…|
 |[Accent Grid](https://chromewebstore.google.com/detail/efedjomeallaomheefphgnbleieplnfk)|Easy access to accented letters and other special characters.|
-|[Chrome Web Store](https://chromewebstore.google.com/detail/ejajakfhhhhkifioabcekjjlhpoiijfa)|-|
+|[Not found](https://chromewebstore.google.com/detail/ejajakfhhhhkifioabcekjjlhpoiijfa)|-|
 |[Zotero Connector](https://chromewebstore.google.com/detail/ekhagklcjbdpajgpjgmbionohlpdbjgc)|Save references to Zotero from your web browser|
 |[Arduino Create for Education](https://chromewebstore.google.com/detail/elmgohdonjdampbcgefphnlchgocpaij)|Arduino Create Chrome app.|
 |[Screenshot reader™](https://chromewebstore.google.com/detail/enfolipbjmnmleonhhebhalojdpcpdoo)|Screenshot reading support for Read&Write for Google Chrome™|
 |[Google Apps Script](https://chromewebstore.google.com/detail/eoieeedlomnegifmaghhjnghhmcldobl)|Create and edit scripts|
-|[Chrome Web Store](https://chromewebstore.google.com/detail/eookhngofldnbnidjlbkeecljkfpmfpg)|-|
+|[Not found](https://chromewebstore.google.com/detail/eookhngofldnbnidjlbkeecljkfpmfpg)|-|
 |[GoFullPage - Full Page Screen Capture](https://chromewebstore.google.com/detail/fdpohaocaechififmbbbbbknoalclacl)|Capture a screenshot of your current page in entirety and reliably—without requesting any extra permissions!|
 |[OrbitNote](https://chromewebstore.google.com/detail/feepmdlmhplaojabeoecaobfmibooaid)|Create, convert, connect: take your digital documents to the next level with OrbitNote.|
 |[Sheets](https://chromewebstore.google.com/detail/felcaaldnbdncclmgdcncolpebgiejap)|Create and edit spreadsheets|
@@ -77,17 +77,17 @@
 |[Anyfile Notepad](https://chromewebstore.google.com/detail/ghlichmdnegmcpafgmmlpkegmcndlndi)|Anyfile Notepad is a Google Drive compatible app that let's you open any type of files on Google Drive and Dropbox.|
 |[Collabrify Flipbook](https://chromewebstore.google.com/detail/glpdlckpmfpaokcjnbieiogeefhfpapo)|Collaboratively cocreate drawings and animations.|
 |[Google Sites](https://chromewebstore.google.com/detail/gmandedkgonhldbnjpikffdnneenijnd)|Create and edit sites|
-|[Chrome Web Store](https://chromewebstore.google.com/detail/gmbgaklkmjakoegficnlkhebmhkjfich)|-|
+|[Not found](https://chromewebstore.google.com/detail/gmbgaklkmjakoegficnlkhebmhkjfich)|-|
 |[Save to Google Drive](https://chromewebstore.google.com/detail/gmbmikajjgmnabiglmofipeabaddhgne)|Save web content or screen capture directly to Google Drive.|
 |[Note Board - Sticky Notes App](https://chromewebstore.google.com/detail/goficmpcgcnombioohjcgdhbaloknabb)|Note Board  Sticky Notes App|
 |[Microsoft Editor: Spelling & Grammar Checker](https://chromewebstore.google.com/detail/gpaiobkfhnonedkhhfjpmhdalgeoebfa)|Write with confidence with Microsoft Editor, your intelligent grammar, spelling, and style checking writing assistant.|
-|[Chrome Web Store](https://chromewebstore.google.com/detail/hcfnhafpadfnabbnjnhdfdacolpmdbjo)|-|
+|[Not found](https://chromewebstore.google.com/detail/hcfnhafpadfnabbnjnhdfdacolpmdbjo)|-|
 |[Pocketlab](https://chromewebstore.google.com/detail/hcgfdfgomnfebpnlkohhflcdhkllepdk)|PocketLab is a wireless sensor for exploring the world and building science experiments. We built PocketLab for the curious…|
-|[Chrome Web Store](https://chromewebstore.google.com/detail/hcglmfcclpfgljeaiahehebeoaiicbko)|-|
+|[Not found](https://chromewebstore.google.com/detail/hcglmfcclpfgljeaiahehebeoaiicbko)|-|
 |[Taskade - AI Agents, Chat Bots, & Task Automation](https://chromewebstore.google.com/detail/hcobdfnjjaceclfdjpmmpiknimccjpmf)|AI Agents, task lists, and workflow automation. Get work done faster and smarter with Taskade.|
 |[Read Aloud: A Text to Speech Voice Reader](https://chromewebstore.google.com/detail/hdhinadidafjejdhmfkjgnolgimiaplp)|Read aloud the current webpage article with one click, using text to speech (TTS). Supports 40+ languages.|
 |[Camera](https://chromewebstore.google.com/detail/hfhhnacclhffhdffklopdkcgdhifgngh)|Take photos and record videos with your camera.|
-|[Chrome Web Store](https://chromewebstore.google.com/detail/hfiocchbmngcelgfdcfbepgoipapddlh)|-|
+|[Not found](https://chromewebstore.google.com/detail/hfiocchbmngcelgfdcfbepgoipapddlh)|-|
 |[PDF Mergy - Merge PDF files](https://chromewebstore.google.com/detail/hgecghmkcdefnknohcimkoemhaofpoha)|Allows to merge PDF files with a simple drag and drop interface.|
 |[3DView](https://chromewebstore.google.com/detail/hhngciknjebkeffhafnaodkfidcdlcao)|Powerful application for 3D printing enthusiasts and professionals|
 |[Reactions for Google Meet](https://chromewebstore.google.com/detail/hicfolagolebmjahkldfohbmphcoddoh)|Send your reactions during the Google Meeting|
@@ -97,12 +97,12 @@
 |[Picture-in-Picture Extension (by Google)](https://chromewebstore.google.com/detail/hkgfoiooedgoejojocmhlaklaeopbecg)|Watch video using PictureinPicture|
 |[Checker Plus for Google Calendar‚Ñ¢](https://chromewebstore.google.com/detail/hkhggnncdpfibdhinjiegagmopldibha)|See your next events, get meeting notifications and snooze events without opening the Google Calendar page!|
 |[Google Keep - Notes and Lists](https://chromewebstore.google.com/detail/hmjkmjkepdijhoojdojkdfohbdgmmhki)|Quickly capture what's on your mind and share those thoughts with friends and family.|
-|[Chrome Web Store](https://chromewebstore.google.com/detail/hnfeekfpnjbdmelcapngdgkjnhgijjkh)|-|
+|[Not found](https://chromewebstore.google.com/detail/hnfeekfpnjbdmelcapngdgkjnhgijjkh)|-|
 |[Screen Recorder](https://chromewebstore.google.com/detail/hniebljpgcogalllopnjokppmgbhaden)|Record a video from the camera or capture it from the screen (desktop, specific application window or browser tab)|
 |[Mirroring360 Sender for Chrome](https://chromewebstore.google.com/detail/iaigceaehdihlnolehbapjfbbfpnlngg)|Cast your Chromebook or Computer Screen to Another Computer (PC or MAC)|
 |[Co:Writer](https://chromewebstore.google.com/detail/ifajfiofeifbbhbionejdliodenmecna)|Word prediction that is grammar smart and inventive spelling aware. Speech recognition allows you to speak it, and we'll write it.|
-|[Chrome Web Store](https://chromewebstore.google.com/detail/ihacalceahhliihnhclmjjghadnhhnoc)|-|
-|[Chrome Web Store](https://chromewebstore.google.com/detail/iimbdmgkimpbhimdjnmiffmeefbppijo)|-|
+|[Not found](https://chromewebstore.google.com/detail/ihacalceahhliihnhclmjjghadnhhnoc)|-|
+|[Not found](https://chromewebstore.google.com/detail/iimbdmgkimpbhimdjnmiffmeefbppijo)|-|
 |[Imagus](https://chromewebstore.google.com/detail/immpkjjlgappgfkkfieppnmlhakdmaab)|Enlarge thumbnails, and show images/videos from links with a mouse hover.|
 |[Read&Write for Google Chrome™](https://chromewebstore.google.com/detail/inoeonmfapjbbkmdafoankkfajkcphgd)|Boost reading and writing confidence across all types of content and devices, in class, at work, and at home.|
 |[Chrome Remote Desktop](https://chromewebstore.google.com/detail/inomeogfingihgjfjlpeplalcfajhgai)|Chrome Remote Desktop extension|
@@ -122,13 +122,13 @@
 |[Dyslexie Font: Dyslexia Accessibility Reader](https://chromewebstore.google.com/detail/jphdkcjkapjfojcjajeeomimmihnghjp)|Online reading dyslexia friendly, with Dyslexie Font, adjustable size, line spacing, color. Easy online forms with drag and drop.|
 |[Grammarly: AI Writing and Grammar Checker App](https://chromewebstore.google.com/detail/kbfnbcaeplbcioakkpcpgfkobkghlhen)|Improve your writing with allinone assistance—including generative AI, grammar check, and more.|
 |[ClapMotion](https://chromewebstore.google.com/detail/kbjecgaklokmkijdkgeepcnjmcdoajao)|ClapMotion is a stopmotion software that allows you to create your own animation by simply clapping your hands.|
-|[Chrome Web Store](https://chromewebstore.google.com/detail/kbohafcopfpigkjdimdcdgenlhkmhbnc)|-|
+|[Not found](https://chromewebstore.google.com/detail/kbohafcopfpigkjdimdcdgenlhkmhbnc)|-|
 |[Storybird](https://chromewebstore.google.com/detail/khnkljecljfpgcoafnmoaanlhepgbfof)|Creative digital storybuilding tool for readers, writers, and educators.|
 |[Zoho CRM](https://chromewebstore.google.com/detail/kigppphkaknhndejgcmckacpipcioacn)|Affordable Ondemand CRM Software|
-|[Chrome Web Store](https://chromewebstore.google.com/detail/kihnihckibjknmebghcjpmemaginnipl)|-|
+|[Not found](https://chromewebstore.google.com/detail/kihnihckibjknmebghcjpmemaginnipl)|-|
 |[Web Clipper (Nimbus)](https://chromewebstore.google.com/detail/kiokdhlcmjagacmcgoikapbjmmhfchbi)|Web Clipper that works! The easiest way to clip text, pics, links, email and pdf from internet pages and save them.|
 |[Sketchpad 3.5](https://chromewebstore.google.com/detail/kkghjbajgkcialbbimbifdcjilhcgoim)|Draw, Create, Share!|
-|[Chrome Web Store](https://chromewebstore.google.com/detail/kklailfgofogmmdlhgmjgenehkjoioip)|-|
+|[Not found](https://chromewebstore.google.com/detail/kklailfgofogmmdlhgmjgenehkjoioip)|-|
 |[Zoom for Google Chrome](https://chromewebstore.google.com/detail/lajondecmobodlejlcjllhojikagldgd)|Zoom in or out on web content using the zoom button and mouse scroll wheel for more comfortable reading. That to each percent value.|
 |[Momentum](https://chromewebstore.google.com/detail/laookkfknpbbblfpciffpaejjkokdgca)|Transform your browser into a beautifully designed tab that helps you feel calm, keep focus, and stay energized.|
 |[SmartDraw Cloud](https://chromewebstore.google.com/detail/lcfhaddgimpjnpbmphgjbkpiaamokidi)|The smartest way to draw anything, now in your browser.|
@@ -159,8 +159,8 @@
 |[Screencastify - Screen Video Recorder](https://chromewebstore.google.com/detail/mmeijimgabbpbgpdklnllpncmdofkcpn)|An easytouse screen recorder for your browser. Capture, edit and share videos in seconds.|
 |[Text](https://chromewebstore.google.com/detail/mmfbcljfglbokpmkimbfghdkjmjhdgbg)|A text editor for Chrome OS and Chrome.|
 |[ZIP Extractor](https://chromewebstore.google.com/detail/mmfcakoljjhncfphlflcedhgogfhpbcd)|Open ZIP files on your computer and Google Drive|
-|[Chrome Web Store](https://chromewebstore.google.com/detail/mmimngoggfoobjdlefbcabngfnmieonb)|-|
-|[Chrome Web Store](https://chromewebstore.google.com/detail/mpgknomjjgfnghhmhnhgpmanpkccgkoc)|-|
+|[Not found](https://chromewebstore.google.com/detail/mmimngoggfoobjdlefbcabngfnmieonb)|-|
+|[Not found](https://chromewebstore.google.com/detail/mpgknomjjgfnghhmhnhgpmanpkccgkoc)|-|
 |[Color Temperature (Change Lux)](https://chromewebstore.google.com/detail/mppedbpcpkaeclkgoppmdpdobhlpifeb)|A lite and easytouse addon that adjusts the screen color to match the environment!|
 |[DroneBlocks](https://chromewebstore.google.com/detail/nbfahmffcopanponfpkefngbijhbnffa)|Teaching STEAM with block coding and drones|
 |[Sticky Notes](https://chromewebstore.google.com/detail/nbjdhgkkhefpifbifjiflpaajchdkhpg)|The first, truly sticky app for notes on your desktop! It is easy to manage and customize. Now also supports speech recognition!|
@@ -169,7 +169,7 @@
 |[Meet Attendance](https://chromewebstore.google.com/detail/nenibigflkdikhamlnekfppbganmojlg)|Collect attendance in a Google Sheet from a Google Meet.|
 |[Ears: Bass Boost, EQ Any Audio!](https://chromewebstore.google.com/detail/nfdfiepdkbnoanddpianalelglmfooik)|EQ any audio you find on the web, live! Crank the bass, dim the highs, up the vocals: all with Ears!|
 |[Focus To-Do: Pomodoro Timer & To Do List](https://chromewebstore.google.com/detail/ngceodoilcgpmkijopinlkmohnfifjfb)|‚è± Pomodoro Timer ‚úÖ Task Organizer üìäTime Tracker üìÖ Schedule Planner üîî Reminder|
-|[Chrome Web Store](https://chromewebstore.google.com/detail/nhkfdlkhjojdoggilphgbncejkmdobfp)|-|
+|[Not found](https://chromewebstore.google.com/detail/nhkfdlkhjojdoggilphgbncejkmdobfp)|-|
 |[ScanQR](https://chromewebstore.google.com/detail/nihhbejdflkeingkkpakffdlmepaeaah)|Scans QR codes using your webcam.|
 |[Cite This For Me: Web Citer](https://chromewebstore.google.com/detail/nnnmhgkokpalnmbeighfomegjfkklkle)|Automatically create website citations in the APA, MLA, Chicago, or Harvard referencing styles at the click of a button.|
 |[ProWritingAid: Grammar Checker & Paraphrasing Tool](https://chromewebstore.google.com/detail/npnbdojkgkbcdfdjlfdmplppdphlhhcf)|Gain confidence in your writing with the best grammar checker and paraphrasing tool that works wherever you do.|
@@ -177,13 +177,13 @@
 |[Checker Plus for Gmail™](https://chromewebstore.google.com/detail/oeopbcgkkoapgobdbedcemjljbihmemj)|Get notifications, read, listen to or delete emails without opening Gmail and easily manage multiple accounts.|
 |[ColorPick Eyedropper](https://chromewebstore.google.com/detail/ohcpnigalekghcmgcdcenkpelffpdolg)|A zoomed eyedropper & color chooser tool that allows you to select color values from webpages and more.|
 |[The QR Code Extension](https://chromewebstore.google.com/detail/oijdcdmnjjgnnhgljmhkjlablaejfeeb)|Allows to generate a QR Code for the current page and scan a QR Code using the webcam.|
-|[Chrome Web Store](https://chromewebstore.google.com/detail/oikgofeboedgfkaacpfepbfmgdalabej)|-|
-|[Chrome Web Store](https://chromewebstore.google.com/detail/oipimoeophamdcmjcfameoojlbhbgjda)|-|
+|[Not found](https://chromewebstore.google.com/detail/oikgofeboedgfkaacpfepbfmgdalabej)|-|
+|[Not found](https://chromewebstore.google.com/detail/oipimoeophamdcmjcfameoojlbhbgjda)|-|
 |[Matific](https://chromewebstore.google.com/detail/ojilacnelcekhjpjnmcffliacpofiaie)|Matific is an app that support math education from kindergartern through grade 6 using playful interaction.|
 |[Video Editor for Chromebook & more: Free app](https://chromewebstore.google.com/detail/okgjbfikepgflmlelgfgecmgjnmnmnnb)|Editing software for Google Chrome OS, Win & iOS. Easy online movie maker with advanced video creation tools. Install & edit free.|
 |[Beautiful Audio Editor](https://chromewebstore.google.com/detail/okiblndpcefmebnkjnjfplijnelbcjmm)|The inbrowser, multitrack audio editor for Desktop and mobile. Make podcasts, mixes, and more.|
 |[Hover Zoom+](https://chromewebstore.google.com/detail/pccckmaobkjjboncdfnnofkonhgpceea)|Zoom images/videos on all your favorite websites (Facebook, Amazon, etc). Simply hover your mouse over the image to enlarge it.|
-|[Chrome Web Store](https://chromewebstore.google.com/detail/pebppomjfocnoigkeepgbmcifnnlndla)|-|
+|[Not found](https://chromewebstore.google.com/detail/pebppomjfocnoigkeepgbmcifnnlndla)|-|
 |[WeDo 2.0 LEGO® Education](https://chromewebstore.google.com/detail/pflionopdgpjckjkafnlamfmonjhccdh)|The LEGO® Education WeDo 2.0 App allows students to explore great science projects.|
 |[Scratch 3 Developer Tools](https://chromewebstore.google.com/detail/phacniajokfchdcamjhonkbhlcipplno)|Scratch 3 Developer Tools to enhance your Scratch Editing Experience on https://scratch.mit.edu|
 |[MyBib: Free Citation Generator](https://chromewebstore.google.com/detail/phidhnmbkbkbkbknhldmpmnacgicphkf)|Automatically create APA style, MLA format, and Harvard referencing style citations with our citation generator addon for Chrome.|
